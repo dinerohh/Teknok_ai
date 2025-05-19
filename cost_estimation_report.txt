@@ -1,0 +1,17 @@
+
+AI-Powered Construction Cost Estimation Report
+---------------------------------------------
+Date of Estimate: 2025-12-03
+Project Material Cost: Ksh 294477.08
+Labor Cost (assumed 50%): Ksh 147238.54
+Contingency (10%): Ksh 44171.56
+Total Estimated Project Cost: Ksh 485887.18
+
+Model Performance:
+- Mean Squared Error: 101819.17
+- R² Score: 0.49
+- Average Prediction Error: 18.73%
+
+Notes:
+- Labor and contingency are based on assumptions due to limited data.
+- Model accuracy will improve with additional data (labor, delays, project budgets).
